@@ -34,7 +34,7 @@ TOPIC_SUBSCRIPTION_2_NAME=sub2
 
 ### Connecting to the Service Bus
 
-You will need a connection String value for the `AZURE_SERVICE_BUS_CONNECTION_STRING` the namespace and bus you will be connecting to us the `Disco-Test-Bus` you can grab this by following these instructions: 
+You will need a connection String value for the `AZURE_SERVICE_BUS_CONNECTION_STRING` you can grab this by following these instructions: 
 
 1. Goto [portal.azure.com](portal.azure.com)
 2. Login into your account
